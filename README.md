@@ -1,4 +1,5 @@
-My GPG public key
+My PGP public key
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaCSO3hYJKwYBBAHaRw8BAQdAwbLoLb3LQRWK8GvGLVC8buXDXKqtd1sWiyev
@@ -18,3 +19,4 @@ j6NUNEImsF7x5vA15YaPCy51AP9BFRRn6Kj+6a+aADjmkcu4ViWszqVosuVqOj0C
 Tq6lGAD/Zc3DYn0Gx9b/lmKODHVc1X/MQYHUVsOiMplBrCecmA4=
 =Que7
 -----END PGP PUBLIC KEY BLOCK-----
+```
